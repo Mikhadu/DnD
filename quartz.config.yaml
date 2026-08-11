@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/Mikhadu/DnD
+  baseUrl: mikhadu.github.io/DnD
   ignorePatterns:
     - private
     - templates
