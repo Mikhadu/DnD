@@ -1,0 +1,1 @@
+#Faction [[Boss]][[Marcellus]][[Petrichor]][[Odette]][[Lukan]][[Broken Shards]][[Ith'Omar]][[Broken Shards]]

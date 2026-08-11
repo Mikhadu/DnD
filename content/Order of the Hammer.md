@@ -1,0 +1,1 @@
+#Faction [[Solar Dominion]][[Aureth]][[Nyra's Regal Items]]

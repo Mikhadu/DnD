@@ -1,0 +1,1 @@
+#NPC [[Assassin Guild]][[Boss]]

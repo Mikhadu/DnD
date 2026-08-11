@@ -1,0 +1,1 @@
+#NPC [[Book]]][[Assassin Guild]]

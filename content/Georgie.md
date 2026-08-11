@@ -1,0 +1,1 @@
+#NPC [[Lower City Newspaper]]

@@ -1,0 +1,1 @@
+#Gods [[Nyra's Regal Items]][[Gilded Hand]]

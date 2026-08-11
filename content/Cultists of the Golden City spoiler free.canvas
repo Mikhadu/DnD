@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"cce7ffb206b5d6f4","type":"text","text":"Odette","x":-520,"y":220,"width":250,"height":60},
+		{"id":"17c2b019a72e532c","type":"text","text":"Marcellus","x":-520,"y":540,"width":250,"height":60},
+		{"id":"4da4f5df28af35a9","type":"text","text":"Boss","x":-120,"y":536,"width":250,"height":60},
+		{"id":"0cd7ad34415af277","type":"text","text":"Odette's Family","x":-842,"y":-37,"width":250,"height":60},
+		{"id":"8414f6118c7bf141","type":"text","text":"Odette's Parents","x":-1131,"y":-219,"width":250,"height":60},
+		{"id":"057146a35cb7bf51","type":"text","text":"Percy","x":-1220,"y":-37,"width":250,"height":60},
+		{"id":"294f6d917fccdf58","type":"text","text":"Thelma","x":-770,"y":-219,"width":250,"height":60},
+		{"id":"a41f7c0b4299734b","type":"text","text":"Lukan","x":260,"y":370,"width":250,"height":60},
+		{"id":"3054bdface97f7e6","type":"text","text":"Petrichor","x":-100,"y":220,"width":250,"height":60},
+		{"id":"c58bc5d3f97643b5","x":-339,"y":391,"width":250,"height":60,"type":"text","text":"Ith'Omar"},
+		{"id":"f32c0405cfc3a6a0","type":"text","text":"Circle of Wilted Petals","x":-520,"y":-37,"width":250,"height":60},
+		{"id":"a7a9b8c849c73107","type":"text","text":"Barktholomew","x":-180,"y":-37,"width":250,"height":60}
+	],
+	"edges":[]
+}

@@ -1,0 +1,1 @@
+[[Kaelun's Church]][[Prophecy]] #NPC 
